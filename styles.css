@@ -1,0 +1,154 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+#header{
+  padding:15px;
+  background-color: #e1e3dd;
+
+}
+#left{
+  display: inline-block;
+  font-size: 50px;
+  font-family: "comic sans ms";
+}
+#right{
+  display: inline-block;
+  text-indent: 19em;
+  font-size:30px;
+  position: absolute; right: 15px;
+  padding-top: 15px;
+  font-family: "arial black"
+}
+#body{
+  background-color: red;
+  background: radial-gradient(#b19cd9,#802B70,#000000);
+  padding:25px;
+
+}
+#tophalf{
+  display: inline-block;
+}
+#photoofme{
+    display: inline-block;
+    border: 5px solid grey;
+ width:500px;
+
+  }
+#rightbox{
+  display: inline-block;
+  text-align: right;
+  vertical-align: top;
+  padding:25px;
+ margin-left: 40px;
+}
+#miniheader{
+  background-color: grey;
+  background: linear-gradient(to right, grey,white,grey);
+  padding:5px;
+    text-align: left;
+    color:white;
+    font-size: 25px;
+
+}
+#aboutme{
+  font-size: 21px;
+  background: linear-gradient(to left, grey, #e1e3dd,white);
+  text-align: left;
+  width: 600px;
+}
+#midparagraph{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#bottomhalfcontainer{
+display: inline-block;
+width:100%;
+height:10%;
+}
+#box1{
+display: inline-block;
+width:390px;
+margin-right: 10px;
+background:linear-gradient(to left,#B19CD9,white)
+}
+#box2{
+display: inline-block;
+width:390px;
+vertical-align: top;
+margin-right: 10px;
+background:linear-gradient(to left,#B19CD9,white)
+}
+#box3{
+display: inline-block;
+width:390px;
+vertical-align: top;
+background:linear-gradient(to left,#B19CD9,white)
+}
+.miniheader{
+  width:380px;
+  background-color: grey;
+  background: linear-gradient( white,grey,white);
+  padding:5px;
+  text-align: left;
+  color:white;
+  font-size: 25px;
+  display: inline-block;
+
+}
+#lamode{
+width:100%;
+}
+#lamodebody{
+  background:linear-gradient(to left,#B19CD9,white);
+}
+#lamodebutton{
+  background-color: darkgreen;
+  border-radius:6px;
+  color: white;
+  width:80px;
+  margin-left: 150px;
+  border:1.5px solid black;
+  text: bold;
+}
+#familycontacts{
+width:100%;
+}
+#familycontactsbody{
+  background:linear-gradient(to left,#B19CD9,white);
+}
+#familycontactsbutton{
+  background-color: darkgreen;
+  border-radius:6px;
+  color: white;
+  width:80px;
+  margin-left: 150px;
+  border:1.5px solid black;
+  text: bold;
+}
+#fiveeleven{
+width:100%;
+}
+#fiveelevenbody{
+  background:linear-gradient(to left,#B19CD9,white);
+}
+#fiveelevenbutton{
+  background-color: darkgreen;
+  border-radius:6px;
+  color: white;
+  width:80px;
+  margin-left: 150px;
+  border:1.5px solid black;
+  text: bold;
+}
+.bottomofminis{
+width:100%;
+background:linear-gradient(to left,#B19CD9,white)
+}
+.buttonsbottofminis{
+width:210px;
+}
+#footer{
+
+}
